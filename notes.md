@@ -29,3 +29,4 @@ Norint iskirpti fona:
 2. ctrl + i
 ctrl + shift + x
 ctrl + s 
+butinai pradzioje viska issaugoti
